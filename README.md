@@ -1,2 +1,7 @@
-# npm1-aml
-Code to reproduce the figures in "Clonal evolution permits outgrowth of chemoresistant LMPP-like early progenitors in relapsed NPM1c AML"
+# Clonal evolution permits outgrowth of chemoresistant LMPP-like early progenitors in relapsed NPM1c AML
+
+## Abstract
+The most recurrent acute myeloid leukemia (AML) driver in adult patients is a DNA frameshift insertion in the Nucleophosmin 1 (NPM1) gene. This mutation causes a translocation of the coding protein from the nucleus to the cytoplasm (NPM1c).  We have generated paired single-cell multi-omics profiles for ~205,000 bone marrow cells collected from NPM1c AML patients at diagnosis and relapse. Detailed single-cell clonal analysis unveiled the evolution, expansion, and concomitant phenotypic changes of pathogenic AML (sub)clones. Blasts with an internal tandem duplication in the FLT3 gene (FLT3-ITD+ blasts) were often lowly abundant at diagnosis but expanded drastically at relapse at the expense of other blasts. Intriguingly, genetically identical FLT3-ITD+ blasts switched from granulocyte-monocyte progenitor-like at diagnosis toward more immature lympho-myeloid primed progenitor (LMPP)-like blasts at relapse. Our data shows that clonal evolution and the accumulation of a FLT3-ITD, is a key evolutionary event that alters AML blast plasticity with minimal changes in the blast phenotype. Increased plasticity favors the specific selection and expansion of FLT3-ITD+ blasts, which adopt a unique LMPP-like phenotype. The overriding transition between diagnosis and relapse suggests that therapeutic interventions (against proliferating cells) could license or accelerate this shift, highlighting the need for a tailored drug composition to target relapsed NPM1c AML.
+
+## Code
+Please clone the GitHub repository on your own computer... more info todo 
